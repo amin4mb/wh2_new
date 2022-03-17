@@ -1,0 +1,15 @@
+C:\Users\amin\Desktop\New folder\New folder\tamrin2\1-a\bin\Debug\net6.0\1-b.exe
+C:\Users\amin\Desktop\New folder\New folder\tamrin2\1-a\bin\Debug\net6.0\1-b.deps.json
+C:\Users\amin\Desktop\New folder\New folder\tamrin2\1-a\bin\Debug\net6.0\1-b.runtimeconfig.json
+C:\Users\amin\Desktop\New folder\New folder\tamrin2\1-a\bin\Debug\net6.0\1-b.dll
+C:\Users\amin\Desktop\New folder\New folder\tamrin2\1-a\bin\Debug\net6.0\1-b.pdb
+C:\Users\amin\Desktop\New folder\New folder\tamrin2\1-a\obj\Debug\net6.0\1-b.csproj.AssemblyReference.cache
+C:\Users\amin\Desktop\New folder\New folder\tamrin2\1-a\obj\Debug\net6.0\1-b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amin\Desktop\New folder\New folder\tamrin2\1-a\obj\Debug\net6.0\1-b.AssemblyInfoInputs.cache
+C:\Users\amin\Desktop\New folder\New folder\tamrin2\1-a\obj\Debug\net6.0\1-b.AssemblyInfo.cs
+C:\Users\amin\Desktop\New folder\New folder\tamrin2\1-a\obj\Debug\net6.0\1-b.csproj.CoreCompileInputs.cache
+C:\Users\amin\Desktop\New folder\New folder\tamrin2\1-a\obj\Debug\net6.0\1-b.dll
+C:\Users\amin\Desktop\New folder\New folder\tamrin2\1-a\obj\Debug\net6.0\refint\1-b.dll
+C:\Users\amin\Desktop\New folder\New folder\tamrin2\1-a\obj\Debug\net6.0\1-b.pdb
+C:\Users\amin\Desktop\New folder\New folder\tamrin2\1-a\obj\Debug\net6.0\1-b.genruntimeconfig.cache
+C:\Users\amin\Desktop\New folder\New folder\tamrin2\1-a\obj\Debug\net6.0\ref\1-b.dll
